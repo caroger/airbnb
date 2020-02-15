@@ -46,6 +46,6 @@ As the conclusion of my analysis, three useful tips for booking Airbnb in Santa 
 2. You can find listings that are relatively cheap but with high review scores in: **Cupertino, Morgan Hill, Mountain View, San Jose, and Sunnyvale**
 3. Opt for listings without mandatory cleaning fees if you can.
 
-A write-up of the analysis was published as a blog plost on medium.com and can be accessed [here](https://medium.com/@handeasy/3-tips-for-booking-airbnb-in-santa-clara-county-in-2020-486eb5241353).
+A write-up of the analysis was published as a blog plots on medium.com and can be accessed [here](https://medium.com/@handeasy/3-tips-for-booking-airbnb-in-santa-clara-county-in-2020-486eb5241353).
 
 Any feedback or comment is welcomed!
